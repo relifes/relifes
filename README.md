@@ -1,4 +1,4 @@
-## Hey, relifes here! :wave: [![Codeforces Rating](https://cfrating.ihcr.top/?user=relifes&style=flat-square)](https://codeforces.com/profile/ReLifes)
+## Hey, relifes here! :wave: 
 
 <img align="right" alt="ouuan's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=relifes&show_icons=true">
 
